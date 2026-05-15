@@ -111,4 +111,4 @@ Contact
 For questions or feedback, feel free to reach out:
 - GitHub: shemaiscard
 
-Enjoy using the Grade Management System! 🚀
+Enjoy using the Grade Management System!
